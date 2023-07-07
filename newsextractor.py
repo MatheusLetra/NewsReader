@@ -1,3 +1,7 @@
+#pip install requests
+#pip install unidecode
+#pip install beautifulsoup4
+
 import requests
 import unidecode
 from bs4 import BeautifulSoup as bs
